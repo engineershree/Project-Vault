@@ -1,0 +1,1 @@
+This project is designed to streamline project management for students and faculty. Stores students’ past and current project materials uploaded directly from GitHub repositories. Integrates with GitHub API for secure access. Project provides a dedicated section for students to upload project updates, progress reports, and relevant files.
